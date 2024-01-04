@@ -1,5 +1,5 @@
 
-const UserList = props => {
+const UserList = () => {
 
     return <ul>
 
