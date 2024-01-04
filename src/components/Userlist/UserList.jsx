@@ -3,7 +3,6 @@ const UserList = () => {
 
     return <ul>
 
-
     </ul>
 }
 
